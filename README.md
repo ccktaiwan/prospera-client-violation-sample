@@ -1,3 +1,12 @@
+> ❌ **Governance Validation Status: FAIL**  
+>  
+> This repository has been reviewed under **Prospera OS Governance Validation v1.0**  
+> and has been formally adjudicated as **NON-COMPLIANT**.  
+>  
+> Validation authority: prospera-client-validation  
+> Validation record: see validation-results/prospera-client-violation-sample__validation-result.md
+
+
 Prospera OS
 Client Repository Template
 
