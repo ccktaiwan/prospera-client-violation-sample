@@ -1,98 +1,102 @@
-> ❌ **Governance Validation Status: FAIL**  
->  
-> This repository has been reviewed under **Prospera OS Governance Validation v1.0**  
-> and has been formally adjudicated as **NON-COMPLIANT**.  
->  
-> Validation authority: prospera-client-validation  
-> Validation record: see validation-results/prospera-client-violation-sample__validation-result.md
-
-
 Prospera OS
-Client Repository Template
+Client Governance Violation Sample Repository
+Authority Boundary
+
+Authority Boundary Statement:
+This repository provides illustrative samples of governance violations for educational and analytical purposes only. It does not define governance authority, enforcement mechanisms, or execution constraints. All canonical governance and execution definitions reside exclusively in the prospera-os repository.
 
 Repository Purpose
 
-This repository is a client-facing project repository that operates under Prospera OS Governance.
+This repository exists to document illustrative examples of governance violations in client project contexts operating under Prospera OS Governance.
 
-It is intended for engineering implementation, documentation, and AI-assisted execution within predefined governance boundaries.
+Its purpose is to help organizations, auditors, and engineers understand:
 
-This repository does not define governance rules, authority models, or enforcement logic.
+What constitutes a governance violation
 
-Governance Model
+How violations may arise in practice
 
-This repository adopts Prospera OS Governance as its governing framework.
+Why certain actions are prohibited under Prospera OS Governance
 
-Governance authority, rules, enforcement mechanisms, and escalation paths are defined externally.
+This repository is informational only and does not perform enforcement, validation, or automated judgment.
 
-See GOVERNANCE_ADOPTION_DECLARATION.md for the formal adoption declaration.
+Scope of Violation Examples
 
-What This Repository Is For
-
-This repository may be used for:
-
-Software implementation and configuration
-
-Architecture realization based on approved specifications
-
-Documentation of implementation artifacts
-
-AI-assisted code generation under permitted participation modes
-
-Testing, validation, and delivery activities
-
-All activities must comply with the adopted governance specifications.
-
-What This Repository Is NOT For
-
-This repository must NOT be used for:
-
-Defining or modifying governance rules
-
-Redefining authority ownership or escalation paths
-
-Overriding AI participation boundaries
-
-Introducing enforcement logic or governance tooling
+Examples documented in this repository may include (but are not limited to):
 
 Treating AI-generated outputs as authoritative decisions
 
-Any attempt to perform the above is considered a governance violation.
+Allowing AI systems to bypass defined approval or review steps
 
-AI Usage Rules
+Redefining governance rules within a client repository
 
-AI systems may be used only as permitted by the adopted governance specifications.
+Obscuring or removing human responsibility attribution
 
-AI outputs are advisory unless explicitly reviewed and approved by a responsible human.
+Introducing execution or enforcement logic without governance approval
 
-AI systems may not make final decisions, enforce rules, or override human authority.
+These examples are presented for analysis and learning, not as exhaustive or prescriptive lists.
 
-All AI-assisted activities must remain traceable and reviewable.
+What This Repository Is NOT
 
-Authority and Responsibility
+This repository must NOT be used for:
 
-Human maintainers retain full authority and responsibility for all outcomes produced in this repository.
+Enforcing governance rules
 
-AI systems do not hold authority.
+Validating or certifying compliance
 
-Responsibility cannot be delegated to tools, models, or automation.
+Acting as an audit authority
 
-Governance Compliance
+Replacing human judgment with automated violation detection
 
-This repository is subject to governance audit and review.
+Making final determinations of responsibility or fault
 
-All work must be traceable to responsible human actors.
+All determinations of violation status remain the responsibility of designated human authorities under Prospera OS Governance.
 
-Non-compliant artifacts may be invalidated.
+Relationship to Validation and Client Repositories
 
-In case of uncertainty, ambiguity, or conflict, governance escalation must occur.
+This repository is complementary to:
+
+Client Repository Template
+
+Client Validation Repository
+
+It may be referenced during:
+
+Governance reviews
+
+Training and onboarding
+
+Post-incident analysis
+
+However, it does not trigger enforcement actions or escalation by itself.
+
+Governance and Accountability
+
+All violation examples must:
+
+Clearly describe the context and action
+
+Identify which governance principles were violated
+
+Preserve traceability to responsible human roles
+
+This repository does not assign blame or penalties.
 
 Reference Documents
 
-GOVERNANCE_ADOPTION_DECLARATION.md
-Prospera OS Governance Repository (ai-governed-software-engineering)
+Prospera OS — Canonical System Index
+https://github.com/ccktaiwan/prospera-os
 
-────────────────────────────────────────
+Client Validation Repository
+https://github.com/ccktaiwan/prospera-client-validation
+
+Status
+
+Repository Role: Violation Sample / Educational Reference
+
+Governance Authority: External (Prospera OS)
+
+Enforcement Capability: None
+
+Intended Audience: Engineers, auditors, governance reviewers
+
 End of Document
-────────────────────────────────────────
-
-Commit 設定（請照用）
